@@ -149,7 +149,7 @@ $ yarn setup:local
 # Start the account service  
 $ npx nest start service-account  
   
-# Start the access service  
+# Start the access service 
 $ npx nest start service-access  
   
 # Start the role service  
